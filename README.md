@@ -49,3 +49,37 @@ Learning Data Structures and Algorithms (DSA) using JavaScript is a great way to
 - Learn how to implement divide and conquer algorithms in JavaScript and practice solving problems using this approach.
 
 Remember, the key to mastering DSA using JavaScript is to practice consistently and learn from your mistakes. Keep coding and never give up!
+
+# Here are some popular algorithms to learn in JavaScript:
+
+# 1. Bubble Sort: 
+A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+
+# 2. Quick Sort: 
+A divide-and-conquer sorting algorithm that selects a pivot element and partitions the array or list around the pivot, such that elements smaller than the pivot come before it and elements greater than the pivot come after it. The algorithm then recursively sorts the two partitions.
+
+# 3. Merge Sort: 
+A divide-and-conquer sorting algorithm that divides the list into equal halves, sorts each half recursively, and then merges the two halves to produce a sorted list.
+
+# 4. Binary Search: 
+A search algorithm that works on sorted lists or arrays by repeatedly dividing the search interval in half and comparing the middle element with the target value.
+
+# 5. Depth-First Search (DFS): 
+A graph traversal algorithm that explores the depth of a graph by visiting as far as possible along each branch before backtracking.
+
+# 6. Breadth-First Search (BFS): 
+A graph traversal algorithm that explores the breadth of a graph by visiting all the nodes at a given depth before moving on to the nodes at the next depth.
+
+# 7. Dijkstra's Algorithm: 
+A shortest path algorithm that finds the shortest path between nodes in a weighted graph by maintaining a set of visited nodes and a set of unvisited nodes, and assigning tentative distances to each node.
+
+# 8. Dynamic Programming: 
+A technique used to solve complex problems by breaking them down into smaller subproblems and solving each subproblem only once, storing the results of each subproblem in a table to avoid redundant calculations.
+
+# 9. Greedy Algorithms: 
+An algorithmic paradigm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum.
+
+# 10. Backtracking: 
+A general algorithmic technique that involves exploring all possible solutions by incrementally building candidates and testing whether each candidate satisfies the problem's constraints.
+
+Remember, mastering these algorithms in JavaScript requires consistent practice and implementation. Good luck!
